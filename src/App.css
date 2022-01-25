@@ -40,3 +40,8 @@
 button {
   font-size: calc(10px + 2vmin);
 }
+.reset {
+  background-color: blue;
+  border-radius: 20px;
+  padding: 10px 30px;
+}
