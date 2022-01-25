@@ -10,6 +10,22 @@ body {
   display: grid;
 }
 
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App .img {
+  width: 100px;
+  height: 100px;
+}
+.word {
+  font-size: 2rem;
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
